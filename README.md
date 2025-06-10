@@ -19,7 +19,7 @@ This is a simple desktop Expense Tracker application built using **Python's Tkin
 ## 📸 Screenshots
 
 ### 💻 Main Interface
-![Main UI](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/main_ui.png)
+![Main UI]([https://raw.githubusercontent.com/your-username/your-repo-name/main/images/main_ui.png](https://ibb.co/nsdWgfpZ))
 
 ### 📊 Pie Chart of Expenses
 ![Pie Chart](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/pie_chart.png)
